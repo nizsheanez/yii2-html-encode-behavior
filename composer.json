@@ -1,0 +1,24 @@
+{
+    "name": "nizsheanez/yii2-html-encode-behavior",
+    "description": "Automatic Html::encode/Html::decode - when you save or find Model",
+    "type": "yii2-extension",
+    "keywords": ["yii", "yii2", "encode", "decode"],
+    "license": "BSD-3-Clause",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Alex Sharov",
+            "email": "www.pismeco@gmail.com",
+            "role": "Author"
+        }
+    ],
+    "require" : {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "dev-master",
+        "yiisoft/yii2-composer": "dev-master"
+    },
+    "autoload": {
+        "psr-0": { "nizsheanez\\behaviors\\htmlEncode\\": "" }
+    },
+    "target-dir": "nizsheanez/behaviors/htmlEncode"
+}
