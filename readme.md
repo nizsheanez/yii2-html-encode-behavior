@@ -9,7 +9,7 @@ Automatic Html::encode/Html::decode when you save/find model
 "require": {
     "nizsheanez/yii2-html-encode-behavior": "1.*",
 },
-
+sdfasfsdf
 php composer.phar update
 
 ~~~php
