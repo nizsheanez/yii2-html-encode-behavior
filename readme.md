@@ -11,6 +11,7 @@ Automatic Html::encode/Html::decode when you save/find model
 },
 
 
+
 php composer.phar update
 
 ~~~php
